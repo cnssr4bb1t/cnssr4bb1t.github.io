@@ -47,7 +47,7 @@
 <div class="intrude-less">
 	<header id="header" class="inner">
 		<a href="/" class="profilepic">
-			<img src class="js-avatar">
+			<img src="https://blog-asset.oss-cn-beijing.aliyuncs.com/head.JPG" class="js-avatar">
 		</a>
 		<hgroup>
 		  <h1 class="header-author"><a href="/">r4bb1t</a></h1>
@@ -81,6 +81,10 @@
 		        
 					<a class="weibo" target="_blank" href="https://weibo.com/u/2947318345/home" title="weibo"><i class="icon-weibo"></i></a>
 		        
+					<a class="mail" target="_blank" href="mailto:cnssr4bb1t@gmail.com" title="mail"><i class="icon-mail"></i></a>
+		        
+					<a class="twitter" target="_blank" href="https://twitter.com/r4bb1t2" title="twitter"><i class="icon-twitter"></i></a>
+		        
 			</div>
 		</nav>
 	</header>		
@@ -97,7 +101,7 @@
 	<div class="intrude-less">
 		<header id="header" class="inner">
 			<div class="profilepic">
-				<img src class="js-avatar">
+				<img src="https://blog-asset.oss-cn-beijing.aliyuncs.com/head.JPG" class="js-avatar">
 			</div>
 			<hgroup>
 			  <h1 class="header-author js-header-author">r4bb1t</h1>
@@ -115,6 +119,10 @@
 						<a class="github" target="_blank" href="https://github.com/cnssr4bb1t" title="github"><i class="icon-github"></i></a>
 			        
 						<a class="weibo" target="_blank" href="https://weibo.com/u/2947318345/home" title="weibo"><i class="icon-weibo"></i></a>
+			        
+						<a class="mail" target="_blank" href="mailto:cnssr4bb1t@gmail.com" title="mail"><i class="icon-mail"></i></a>
+			        
+						<a class="twitter" target="_blank" href="https://twitter.com/r4bb1t2" title="twitter"><i class="icon-twitter"></i></a>
 			        
 				</div>
 			</nav>
